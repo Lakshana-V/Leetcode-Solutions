@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+## Binary Search
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
