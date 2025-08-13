@@ -44,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
