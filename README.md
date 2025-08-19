@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3791-fruits-into-baskets-iii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
