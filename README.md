@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3791-fruits-into-baskets-iii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [1448-maximum-69-number](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
