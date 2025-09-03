@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Design
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [1448-maximum-69-number](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
 |  |
@@ -76,9 +79,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
