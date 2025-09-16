@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0217-contains-duplicate](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [1448-maximum-69-number](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
