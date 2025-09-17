@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [1448-maximum-69-number](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Lakshana-V/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
